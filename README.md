@@ -8,7 +8,7 @@
 	<name>Java Home myweb</names>s
 	<url>http://maven.apache.org</url>
 	
-	<properties>
+	<properties
 		<docker.image.prefix>kammana</docker.image.prefix>
 	</properties>	
 	<dependencies>
